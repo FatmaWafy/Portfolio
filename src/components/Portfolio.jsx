@@ -4,32 +4,32 @@ import React from "react";
 const Portfolio = () => {
   const projects = [
     {
-      imgSrc: "../../public/1.png",
+      imgSrc: "/1.png",
       alt: "Project 1",
       link: "https://fatma-7pcrkuamw-fatmawafy.vercel.app/",
     },
     {
-      imgSrc: "../../public/2.png",
+      imgSrc: "/2.png",
       alt: "Project 2",
       link: "https://fatmawafy.github.io/SpaceX/",
     },
     {
-      imgSrc: "../../public/3.png",
+      imgSrc: "/3.png",
       alt: "Project 3",
       link: "https://fatmawafy.github.io/Weather-App/",
     },
     {
-      imgSrc: "../../public/4.png",
+      imgSrc: "/4.png",
       alt: "Project 4",
       link: "https://fatmawafy.github.io/Spotify/",
     },
     {
-      imgSrc: "../../public/5.png",
+      imgSrc: "/5.png",
       alt: "Project 5",
       link: "https://fatmawafy.github.io/FoodHut/",
     },
     {
-      imgSrc: "../../public/6.png",
+      imgSrc: "/6.png",
       alt: "Project 6",
       link: "https://fatmawafy.github.io/Build/",
     },

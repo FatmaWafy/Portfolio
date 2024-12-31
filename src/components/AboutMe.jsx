@@ -7,7 +7,7 @@ const AboutMe = () => {
       <div className='row d-flex justify-content-center align-items-center'>
         <div className='col-2'>
           <img
-            src='/public/fatma.jpg'
+            src='/fatma.jpg'
             alt='About Me'
             className='rounded-circle mw-100  '
           />
